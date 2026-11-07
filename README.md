@@ -1,98 +1,96 @@
-# Hi there, I'm Harshit Tyagi 👋
+# Hi, I'm Harshit Tyagi 👋
 
-### 💻 Computer Science Student | C++ Programmer | Problem Solver
+### Computer Science Student | C++ | Data Structures & Algorithms
 
-I'm a second-year B.Tech student passionate about programming, problem-solving, and computer science.
+I'm a second-year B.Tech student interested in software development, problem-solving, and computer science fundamentals.
 
-I enjoy tackling challenging algorithmic problems, strengthening my understanding of Data Structures & Algorithms, and building projects that turn ideas into reality.
+I enjoy learning by building, exploring new technologies, and solving challenging programming problems.
+
+---
+
+## 👨‍💻 About Me
 
 - 🎓 Currently pursuing B.Tech (2nd Year).
-- 🧠 Focused on Data Structures & Algorithms.
-- ⚡ Actively practicing Competitive Programming.
-- 💻 Primarily interested in C++ and problem-solving.
-- 🌱 Always learning and building something new.
+- 💻 Interested in software development and programming.
+- 🧠 Practicing Data Structures & Algorithms.
+- ⚡ Actively exploring Competitive Programming.
+- 🌱 Focused on improving my problem-solving skills and building real-world projects.
+
+I believe in consistent learning, strong fundamentals, and learning through practical implementation.
 
 ---
 
-### 🛠️ Languages & Technologies
+## 🎯 Current Focus
+
+- Strengthening Data Structures & Algorithms.
+- Improving problem-solving and logical thinking.
+- Practicing Competitive Programming using C++.
+- Exploring software development and building practical projects.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java" />
+</p>
+
+**Web Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-### 🎯 Current Focus
+## 🚀 Featured Projects
 
-- Mastering Data Structures & Algorithms.
-- Improving competitive programming skills.
-- Solving challenging problems on LeetCode.
-- Building practical, real-world projects.
-- Improving logical thinking and problem-solving abilities.
-
----
-
-### 🧠 LeetCode Profile
-
-<p align="center">
-  <a href="https://leetcode.com/u/Tyson_095/">
-    <img src="https://img.shields.io/badge/LeetCode-Tyson__095-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-504-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contest%20Rating-1591-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contests%20Attended-46-green?style=for-the-badge" />
-</p>
-
-| Difficulty | Problems Solved |
-|:---:|:---:|
-| 🟢 Easy | 249 |
-| 🟡 Medium | 231 |
-| 🔴 Hard | 24 |
-| **Total** | **504** |
-
-**Consistency & Activity**
-
-- 🔥 Maximum Daily Streak: 223 Days
-- 📅 Active Days: 290
-- 💻 Submissions in the Past Year: 1,533
-- 🏆 Contest Ranking: Top 25.8%
-
-*Statistics last updated: November 7, 2026.*
+| Project | Technology |
+|---|---|
+| [Stack](https://github.com/Tyson095/Stack) | C++ |
+| [Portfolio](https://github.com/Tyson095/Portfolio) | Web Development |
+| [FarAway](https://github.com/Tyson095/FarAway) | HTML |
+| [Cropultimator](https://github.com/Tyson095/Cropultimator_NEWREPO) | Jupyter Notebook |
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tyson095&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyson095&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tyson095&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyson095&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tyson095&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Tyson095&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/harshit-tyagi-73b293396/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Tyson095">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Tyson_095/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://github.com/Tyson095">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Consistency is the key to mastery. Keep learning, keep solving, keep building."</i> 🚀
+  <i>Learning. Building. Improving. 🚀</i>
 </p>
