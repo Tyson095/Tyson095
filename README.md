@@ -14,6 +14,7 @@ I enjoy learning by building, exploring new technologies, and solving challengin
 - 💻 Interested in software development and programming.
 - 🧠 Practicing Data Structures & Algorithms.
 - ⚡ Actively exploring Competitive Programming.
+- 🐧 Exploring Linux, currently learning Kali Linux.
 - 🌱 Focused on improving my problem-solving skills and building real-world projects.
 
 I believe in consistent learning, strong fundamentals, and learning through practical implementation.
@@ -25,7 +26,8 @@ I believe in consistent learning, strong fundamentals, and learning through prac
 - Strengthening Data Structures & Algorithms.
 - Improving problem-solving and logical thinking.
 - Practicing Competitive Programming using C++.
-- Exploring software development and building practical projects.
+- Learning Linux and exploring Kali Linux.
+- Building practical software projects.
 
 ---
 
@@ -43,11 +45,13 @@ I believe in consistent learning, strong fundamentals, and learning through prac
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-**Tools**
+**Tools & Operating Systems**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
+
+- Linux: Currently learning Kali Linux.
 
 ---
 
@@ -56,7 +60,6 @@ I believe in consistent learning, strong fundamentals, and learning through prac
 | Project | Technology |
 |---|---|
 | [Stack](https://github.com/Tyson095/Stack) | C++ |
-| [Portfolio](https://github.com/Tyson095/Portfolio) | Web Development |
 | [FarAway](https://github.com/Tyson095/FarAway) | HTML |
 | [Cropultimator](https://github.com/Tyson095/Cropultimator_NEWREPO) | Jupyter Notebook |
 
@@ -78,6 +81,9 @@ I believe in consistent learning, strong fundamentals, and learning through prac
 ## 🤝 Let's Connect
 
 <p>
+  <a href="mailto:htyagi2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/harshit-tyagi-73b293396/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
