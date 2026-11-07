@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/developer-banner.png" width="100%" alt="Harshit Tyagi - Developer, Competitive Programmer and Ethical Hacking Enthusiast" />
+</p>
 # Hi, I'm Harshit Tyagi 👋
 
 ### Computer Science Student | C++ | Data Structures & Algorithms
