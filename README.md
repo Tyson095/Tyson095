@@ -51,8 +51,6 @@ I believe in consistent learning, strong fundamentals, and learning through prac
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-- Linux: Currently learning Kali Linux.
-
 ---
 
 ## 🚀 Featured Projects
